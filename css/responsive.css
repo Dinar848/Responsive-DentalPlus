@@ -1,0 +1,1188 @@
+@media only screen and (min-width: 1200px) {
+    .menu-right {
+        margin-left: 743px;
+    }
+
+    .header-contact .call,
+    .header-contact .msg,
+    .header-contact .location {
+        max-width: 30.33%;
+        flex-basis: 30.33%;
+    }
+
+    .header-contact .call {
+        margin-right: -45px;
+    }
+
+    .header-slider-left p {
+        width: 77%;
+        line-height: 1.8;
+        letter-spacing: 1px;
+    }
+
+    .banner-right-h2 {
+        width: 85%;
+        line-height: 1.5;
+    }
+
+    .our-doctors-h2 {
+        margin: 0 16px 60px;
+        font-size: 12px;
+        width: 48%;
+        line-height: 1.5;
+        letter-spacing: 0.4px;
+    }
+
+    .doctors-image-1,
+    .doctors-image-2,
+    .doctors-image-3,
+    .doctors-image-4,
+    .doctors-image-5,
+    .doctors-image-6 {
+        height: 60vh;
+        width: 100%;
+    }
+
+    .our-pricing-h2 {
+        margin: 0 40px 60px;
+        font-size: 12px;
+        width: 48%;
+        line-height: 1.5;
+        letter-spacing: 0.4px;
+    }
+
+    .logo-image {
+        padding-left: 58px;
+    }
+
+    .logo-image img {
+        margin-right: 60px;
+    }
+
+    .footer-img-1 p,
+    .footer-img-2 p,
+    .footer-img-3 p {
+        left: 95px;
+    }
+
+    .footer-img-1 span,
+    .footer-img-2 span,
+    .footer-img-3 span {
+        left: 95px;
+    }
+
+    .footer-btn {
+        margin-left: 260px;
+    }
+
+    .social-icon {
+        margin-left: 54px;
+    }
+
+    .social-icon i {
+        margin-right: 5px;
+    }
+
+}
+
+@media only screen and (max-width: 1024px) {
+
+
+    .footer-btn {
+        margin-left: 189px;
+    }
+
+    .footer-icon h1 {
+        font-size: 15px;
+
+    }
+
+    .social-icon {
+        margin-left: 27px;
+    }
+
+    i.fab.fa-youtube {
+        display: none;
+    }
+
+
+}
+
+@media only screen and (max-width: 920px) {
+    .location {
+        display: none;
+    }
+
+    .header-contact {
+        margin-left: 280px;
+    }
+
+    .menu-right {
+
+        margin-left: 567px;
+    }
+
+    button.owl-next {
+        margin-right: 19px;
+    }
+
+    .our-doctors-h2 {
+        margin-left: -35px;
+        line-height: 16px;
+    }
+
+    .our-doctors-col {
+        margin-right: 12px;
+        margin-left: 12px;
+
+    }
+
+    .doctors-image-1,
+    .doctors-image-2,
+    .doctors-image-3,
+    .doctors-image-4,
+    .doctors-image-5,
+    .doctors-image-6 {
+        width: 100%;
+
+    }
+
+    .our-services-col {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    img#logo2 {
+        margin-right: 44px;
+    }
+
+    .logo-image img {
+        margin-right: 77px;
+    }
+
+    .footer-btn {
+        margin-left: 180px;
+    }
+
+    .social-icon {
+        margin-left: 23px;
+    }
+
+    .footer-col p {
+        font-size: 11px;
+
+    }
+}
+
+
+
+@media only screen and (max-width: 768px) {
+    .menu-right {
+        display: none;
+    }
+
+    .header-contact {
+        display: none;
+    }
+
+    .header {
+        width: 786px;
+    }
+
+    .logo {
+        text-align: center;
+        max-width: none;
+    }
+
+    .header-slider {
+        width: 786px;
+    }
+
+    .header-slider-left {
+        max-width: none;
+        margin-left: 0;
+        margin-top: 100px;
+        text-align: center;
+    }
+
+    .header-slider-left h1 {
+        margin: 10px 235px;
+        width: 320px;
+    }
+
+    .header-slider-left h2 {
+        margin: 10px 158px;
+        width: 470px;
+    }
+
+    .header-slider-left p {
+        font-size: 13px;
+        margin: 0 153px 65px;
+        line-height: 18px;
+    }
+
+    button.owl-next {
+        margin-right: 0;
+    }
+
+    .banner-sec {
+        width: 786px;
+        margin: 0;
+    }
+
+    .banner-sec .banner-wrap {
+        display: block;
+    }
+
+    .banner-left {
+        text-align: center;
+    }
+
+    .banner-left img {
+        width: 340px;
+    }
+
+    .banner-right {
+        width: 100%;
+        margin-left: 0;
+        margin-top: 35px;
+        text-align: center;
+    }
+
+    .banner-right-h2 {
+        margin: 0 140px 55px;
+        line-height: 16px;
+    }
+
+    .banner-text-top,
+    .banner-text-bottom {
+        display: flex;
+        margin: 0 60px;
+    }
+
+    .our-doctors-sec {
+        width: 786px;
+    }
+
+    .our-doctors-h2 {
+        margin: 0 130px 60px;
+        transform: none;
+    }
+
+    .doctors-image-1,
+    .doctors-image-2,
+    .doctors-image-3,
+    .doctors-image-4,
+    .doctors-image-5,
+    .doctors-image-6 {
+        height: 160px;
+    }
+
+    .our-services {
+        width: 786px;
+    }
+
+    .our-services-col h1 {
+        font-size: 12px;
+    }
+
+    .our-services-col p,
+    .our-services-col a {
+        font-size: 10px;
+    }
+
+    .our-services .container {
+        width: 90%;
+        margin: auto;
+    }
+
+    .our-pricing {
+        width: 786px;
+    }
+
+    .our-pricing-col h1 {
+        font-size: 20px;
+    }
+
+    .our-pricing-col h2 {
+        font-size: 11px;
+    }
+
+    .price span {
+        font-size: 32px;
+    }
+
+    .our-happy {
+        width: 786px;
+    }
+
+    .our-pricing-h2 {
+        margin: 0 130px;
+        transform: none;
+    }
+
+    .footer-sec {
+        width: 786px;
+    }
+
+    .footer-col {
+        max-width: 50%;
+        flex-basis: 50%;
+    }
+
+    .footer-col.display-none-768 {
+        display: none;
+    }
+
+    p.dental-plus-p {
+        width: 75%;
+    }
+
+    a.footer-btn {
+        margin-left: 253px;
+    }
+
+    .social-icon {
+        margin-left: 70px;
+    }
+
+    .social-icon i {
+        margin-left: 5px;
+    }
+
+
+    /*======480 device========*/
+    @media only screen and (max-width: 480px) {
+
+        .header-top {
+            padding: 0;
+            width: 100%;
+        }
+
+        .header {
+            width: 100%;
+            margin-top: -39px;
+        }
+
+        .logo {
+
+            display: inline-block;
+        }
+
+        .logo img {
+            margin-top: 18px;
+            width: 138px;
+        }
+
+        .header {
+            background-color: #FFF;
+        }
+
+        .header .menu {
+            display: none;
+        }
+
+        .mobile-menu span {
+            display: block;
+            float: left;
+            margin-top: -6px;
+            margin-left: 370px;
+        }
+
+        .closebtn {
+            right: 2.5rem;
+            font-size: 4rem;
+        }
+
+        .mobile-menu .overlay-content {
+            top: 28%;
+        }
+
+        .mobile-menu .overlay-content a {
+            font-size: 2rem;
+        }
+
+        .header-slider {
+            width: 100%;
+        }
+
+        .header-slider-left {
+            max-width: none;
+            margin-left: -143px;
+            margin-top: 100px;
+            text-align: center;
+        }
+
+        .header-slider-left h1 {
+            margin: 10px 271px;
+            width: 230px;
+            font-size: 18px;
+        }
+
+        .header-slider-left h2 {
+            margin: 10px 227px;
+            width: 317px;
+            font-size: 22px;
+        }
+
+        .header-slider-left p {
+            font-size: 13px;
+            margin: 0px 211px 65px;
+            line-height: 18px;
+            width: 56%;
+        }
+
+        .header-button {
+            margin-left: 143px;
+        }
+
+        .header-slider-left .learn-more {
+            line-height: 3;
+        }
+
+        .owl-carousel .owl-item img {
+            margin-top: 58px;
+            width: 95%;
+        }
+
+        .banner-sec {
+            width: 100%;
+
+        }
+
+        .banner-left img {
+            width: 265px;
+            margin-top: -20px;
+        }
+
+        .banner-right {
+            width: 100%;
+
+        }
+
+        .banner-right-h1 {
+
+            font-size: 18px;
+        }
+
+        .banner-right-h2 {
+            margin-left: 26px;
+            width: 86%;
+        }
+
+        .banner-text-top,
+        .banner-text-bottom {
+            margin: 0 6px;
+        }
+
+        .banner-text-top-right,
+        .banner-text-bottom-right {
+            margin-left: 24px;
+        }
+
+        .our-doctors-sec {
+            width: 100%;
+        }
+
+        .our-doctors-h2 {
+            width: 95%;
+            margin: 0px 9px 60px;
+        }
+
+        .our-doctors-row {
+            display: block;
+        }
+
+        .our-doctors-col {
+            max-width: 200px;
+            margin-left: 103px;
+
+        }
+
+        .our-services {
+            width: 100%;
+        }
+
+        .our-services-row {
+            display: block;
+
+        }
+
+        .our-services-col {
+            height: 200px;
+            margin-left: 80px;
+        }
+
+        .our-services-col p {
+            margin-bottom: 31px;
+
+        }
+
+        .our-services-col h1 {
+            font-size: 18px;
+        }
+
+        .our-services-col p,
+        .our-services-col a {
+            font-size: 11px;
+        }
+
+        .our-pricing {
+            width: 100%;
+        }
+
+        .our-pricing-row {
+            margin-left: 32px;
+            display: block;
+        }
+
+        .our-pricing-col {
+            border: 2px solid rgb(255, 255, 255);
+            height: 373px;
+            width: 70%;
+            margin-bottom: 88px;
+            margin-left: 60px;
+        }
+
+        .our-pricing-col:hover {
+            border: 2px solid #f69169;
+
+        }
+
+        .our-pricing-col h1 {
+            font-size: 26px;
+        }
+
+        .our-happy {
+            width: 100%;
+        }
+
+        img#logo1,
+        img#logo3,
+        img#logo4,
+        img#logo5 {
+            width: auto;
+        }
+
+        .our-pricing-h2 {
+            margin: 0 6px;
+            width: 96%;
+        }
+
+        .footer-sec {
+            width: 100%;
+        }
+
+        .footer-sec .container {
+            width: 100%;
+        }
+
+        .footer-col {
+            margin-left: 10px;
+            margin-right: 10px;
+        }
+
+        .footer-col p {
+            font-size: 11px;
+        }
+
+        p.dental-plus-p {
+            width: 100%;
+        }
+
+        .dental-img img {
+            width: 60%;
+        }
+
+        .footer-col .footer-contact-p {
+            color: #b9b9b9;
+            font-size: 11px;
+            line-height: 15px;
+        }
+
+        .footer-location {
+            margin-bottom: 46px;
+        }
+
+        .footer-h1 {
+            font-size: 20px;
+        }
+
+        .footer-btn {
+            padding: 9px 14px;
+            font-size: 11px;
+        }
+
+        a.footer-btn {
+            margin-left: 137px;
+        }
+
+        .footer-icon {
+            display: block;
+            margin-top: 77px;
+        }
+
+        .footer-icon h1 {
+            font-size: 13px;
+            margin-bottom: 10px;
+        }
+
+        .footer-location img,
+        .footer-call img,
+        .footer-msg img {
+            width: 10%;
+        }
+
+        .footer-location {
+            margin-bottom: 33px;
+        }
+
+        .social-icon {
+            margin-left: -4px;
+        }
+
+        .social-icon i {
+            width: 30px;
+            height: 30px;
+            line-height: 30px;
+            margin-left: 5px;
+        }
+
+        .footer-last {
+            padding-top: 40px;
+            font-size: 9px;
+        }
+    }
+
+
+
+    /*======460 device=======*/
+    @media only screen and (max-width: 460px) {
+
+        .header-slider-left h1 {
+            margin: 10px 261px;
+        }
+
+        .header-slider-left h2 {
+            margin: 10px 216px;
+        }
+
+        .header-slider-left p {
+            margin: 0px 205px 65px;
+        }
+
+        a.footer-btn {
+            margin-left: 120px;
+        }
+
+
+    }
+
+
+    @media only screen and (max-width: 450px) {
+
+        .mobile-menu span {
+            margin-left: 350px;
+        }
+
+
+        .header-slider-left h1 {
+            margin: 10px 256px;
+        }
+
+        .header-slider-left h2 {
+            margin: 10px 211px;
+        }
+
+        .header-slider-left p {
+            margin: 0px 203px 65px;
+        }
+        
+        
+        .our-doctors-col {
+            margin-left: 91px;
+        }
+        
+        .our-services-col {
+            margin-left: 68px;
+        }
+        
+        .our-pricing-row {
+            margin-left: 0;
+        
+        } 
+        
+        .our-pricing-col {
+            margin-left: 57px;
+        }
+
+    }
+
+    @media only screen and (max-width: 440px) {
+
+        .mobile-menu span {
+            margin-left: 340px;
+        }
+
+
+
+        .header-slider-left h1 {
+            margin: 10px 250px;
+        }
+
+        .header-slider-left h2 {
+            margin: 10px 204px;
+
+        }
+
+        .header-slider-left p {
+            margin: 0px 199px 65px;
+        }
+
+
+    }
+
+    /*====iPhone 6/7/8 [414 DEVICE]======*/
+    @media only screen and (max-width: 414px) {
+
+        .mobile-menu span {
+            margin-left: 320px;
+        }
+
+        .header-slider-left h1 {
+            margin: 10px 240px;
+        }
+
+        .header-slider-left h2 {
+            margin: 10px 193px;
+        }
+
+        .header-slider-left p {
+            margin: 0px 184px 65px;
+            width: 60%;
+        }
+
+        .owl-carousel .owl-nav button.owl-next,
+        .owl-carousel .owl-nav button.owl-prev,
+        .owl-carousel button.owl-dot {
+            background: rgb(241, 194, 173);
+            width: 25px;
+            height: 25px;
+            top: 50%;
+            line-height: 27px;
+        }
+
+        .our-doctors-col {
+            margin-left: 76px;
+        }
+
+        .our-services-col {
+            margin-left: 50px;
+        }
+
+        .our-pricing-row {
+            margin-left: 0;
+        }
+
+        .our-pricing-col {
+            width: 70%;
+            margin-left: 53px;
+        }
+
+        img#logo1,
+        img#logo3,
+        img#logo4,
+        img#logo5 {
+            width: auto;
+            margin-right: 100px;
+        }
+
+        a.footer-btn {
+            margin-left: 110px;
+        }
+
+        .closebtn {
+            right: 2.5rem;
+            font-size: 4rem;
+            top: 2%;
+        }
+
+        .mobile-menu .overlay-content {
+            top: 16%;
+        }
+
+        .mobile-menu .overlay-content a {
+            font-size: 2rem;
+        }
+
+
+
+    }
+
+    @media only screen and (max-width: 400px) {
+
+        .header-slider-left h1 {
+            margin: 10px 230px;
+        }
+
+        .header-slider-left h2 {
+            margin: 10px 185px;
+        }
+
+        .header-slider-left p {
+            margin: 0px 180px 65px;
+        }
+
+        a.footer-btn {
+            margin-left: 100px;
+        }
+
+    }
+
+
+    @media only screen and (max-width: 395px) {
+
+
+
+        .header-slider-left h1 {
+            margin: 10px 224px;
+        }
+
+        .header-slider-left h2 {
+            margin: 10px 178px;
+        }
+
+        .header-slider-left p {
+            margin: 0px 178px 65px;
+        }
+
+        .mobile-menu span {
+            margin-left: 295px;
+        }
+
+        a.footer-btn {
+            margin-left: 80px;
+        }
+
+    }
+
+    /*====iPhone 6/7/8 [375 DEVICE]======*/
+    @media only screen and (max-width: 375px) {
+
+        .mobile-menu span {
+            margin-left: 288px;
+        }
+
+        .header-slider-left {
+            margin-left: 0;
+        }
+
+        .header-slider-left h1 {
+            margin: 10px 70px;
+        }
+
+        .header-slider-left h2 {
+            margin: 10px 29px;
+        }
+
+        .header-slider-left p {
+            margin: 0px 52px 65px;
+            width: 72%;
+        }
+
+        .header-button {
+            margin-left: 0px;
+            margin-bottom: 20px;
+        }
+
+        .owl-carousel .owl-nav button.owl-next,
+        .owl-carousel .owl-nav button.owl-prev,
+        .owl-carousel button.owl-dot {
+            background: rgb(241, 194, 173);
+            width: 25px;
+            height: 25px;
+            top: 50%;
+            line-height: 27px;
+        }
+
+        .our-doctors-col {
+            margin-left: 60px;
+        }
+
+        .our-services-col {
+            margin-left: 33px;
+        }
+
+        .our-pricing-row {
+            margin-left: 0;
+        }
+
+        .our-pricing-col {
+            border: 2px solid rgb(255, 255, 255);
+            width: 77%;
+            margin-left: 37px;
+        }
+
+        img#logo1,
+        img#logo3,
+        img#logo4,
+        img#logo5 {
+            width: auto;
+        }
+
+        a.footer-btn {
+            margin-left: 90px;
+        }
+
+        i.fab.fa-youtube {
+            display: none;
+        }
+
+        .footer-location {
+            margin-bottom: 40px;
+        }
+
+
+    }
+
+
+
+    /*====Galaxy s5 [360 DEVICE]======*/
+    @media only screen and (max-width: 360px) {
+
+        .mobile-menu span {
+            margin-left: 280px;
+        }
+
+        .mobile-menu .overlay-content a {
+            font-size: 2rem;
+        }
+
+        .closebtn {
+            right: 1.5rem;
+            font-size: 3rem;
+        }
+
+        .header-slider-left h1 {
+            margin: 10px 66px;
+        }
+
+        .header-slider-left h2 {
+            margin: 10px 21px;
+        }
+
+        .header-slider-left p {
+            margin: 0px 54px 65px;
+            width: 70%;
+        }
+
+        .header-button {
+            margin-bottom: 20px;
+        }
+
+        .owl-carousel .owl-nav button.owl-next,
+        .owl-carousel .owl-nav button.owl-prev,
+        .owl-carousel button.owl-dot {
+            background: rgb(241, 194, 173);
+            width: 25px;
+            height: 25px;
+            top: 50%;
+            line-height: 27px;
+        }
+
+        .our-doctors-col {
+            margin-left: 53px;
+        }
+
+        .our-services-col {
+            margin-left: 25px;
+        }
+
+
+        .our-pricing-row {
+            margin-left: 0;
+        }
+
+        .our-pricing-col {
+            border: 2px solid rgb(255, 255, 255);
+            width: 80%;
+            margin-left: 29px;
+        }
+
+        img#logo1,
+        img#logo2,
+        img#logo4,
+        img#logo5 {
+            width: auto;
+        }
+
+        a.footer-btn {
+            margin-left: 83px;
+        }
+
+        i.fab.fa-youtube {
+            display: none;
+        }
+
+        .footer-location {
+            margin-bottom: 46px;
+        }
+
+        .footer-icon {
+            margin-top: 87px;
+        }
+
+
+    }
+
+
+    
+    @media only screen and (max-width: 340px) {
+            
+         .mobile-menu span {
+    margin-left: 250px;
+}   
+            
+            
+            
+            
+    }
+
+    /*====iPhone 5 [320 DEVICE]======*/
+    @media only screen and (max-width: 320px) {
+
+        .mobile-menu span {
+            margin-left: 250px;
+        }
+
+        .mobile-menu .overlay-content a {
+            font-size: 1.8rem;
+        }
+
+        .header-slider-left {
+            margin-left: -226px;
+
+        }
+
+        .header-slider-left h1 {
+            margin: 10px 287px;
+            width: 200px;
+            font-size: 17px;
+        }
+
+        .header-slider-left h2 {
+            margin: 10px 247px;
+            width: 280px;
+            font-size: 20px;
+        }
+
+        .header-slider-left p {
+            margin: 0px 252px 65px;
+            width: 49%;
+        }
+
+        .header-button {
+            margin-left: 226px;
+            margin-bottom: 20px;
+        }
+
+        .owl-carousel .owl-nav button.owl-next,
+        .owl-carousel .owl-nav button.owl-prev,
+        .owl-carousel button.owl-dot {
+            background: rgb(241, 194, 173);
+            width: 25px;
+            height: 25px;
+            top: 50%;
+            line-height: 27px;
+        }
+
+        .banner-right-h1 {
+            font-size: 16px;
+        }
+
+        .our-doctors-h1 {
+            font-size: 24px;
+        }
+
+        .our-doctors-col {
+            margin-left: 36px;
+        }
+
+        .our-services-col {
+            margin-left: 9px;
+        }
+
+        .our-pricing-row {
+            margin-left: 0;
+            display: block;
+        }
+
+        .our-pricing-col {
+            border: 2px solid rgb(255, 255, 255);
+            height: 358px;
+            width: 85%;
+            margin-left: 21px;
+        }
+
+        .our-pricing-col h1 {
+            font-size: 25px;
+        }
+
+        .pricing-h5 {
+            margin-bottom: 43px;
+        }
+
+        .pricing-h5 h5 {
+            margin-bottom: 12px;
+        }
+
+        .price span {
+            font-size: 28px;
+        }
+
+        .our-happy .container {
+            width: 93%;
+        }
+
+        img#logo1,
+        img#logo3,
+        img#logo4,
+        img#logo5 {
+            width: auto;
+        }
+
+        .footer-col {
+            margin-left: 8px;
+            margin-right: 8px;
+        }
+
+        .dental-img img {
+            width: 80%;
+        }
+
+        a.footer-btn {
+            margin-left: 64px;
+        }
+
+        i.fab.fa-youtube {
+            display: none;
+        }
+
+        .social-icon i {
+            width: 28px;
+            height: 28px;
+            line-height: 28px;
+        }
+
+        .footer-location {
+            margin-bottom: 48px;
+        }
+
+        .footer-col .footer-contact-p {
+            font-size: 10px;
+        }
+
+
+
+
+    }
